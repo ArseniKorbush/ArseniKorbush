@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://99px.ru/sstorage/86/2017/12/10912171713122488.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/NAqend_mfQgAAAAC/github.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -90,9 +90,12 @@
 
 <br/>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <section align="center">
+    <a href="https://github.com/ArseniKorbush">
+      <img height="150em" alt="Github stats, bad apple style by Moepoi" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ArseniKorbushC&show_icons=true&text_color=434d58&title_color=57A3FA&bg_color=00000000&hide_border=true">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniKorbushC&show_icons=true&text_color=434d58&title_color=57A3FA&bg_color=00000000&hide_border=true&layout=compact">
+      <img height="150em" alt="Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=ArseniKorbushC&text_color=434d58&title_color=57A3FA&bg_color=00000000&hide_border=truehide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9](http://github-readme-streak-stats.herokuapp.com?user=ArseniKorbushC&hide_border=true&border_radius=20&date_format=n%2Fj%5B%2FY%5D&background=00000000&ring=57A3FA&fire=71A3FA&currStreakNum=FAFAFA&stroke=00000000&dates=434D58&sideNums=434D58&currStreakLabel=8396AC&sideLabels=8396AC)](https://git.io/streak-stats">
+   </a>
 
 <br />
 
